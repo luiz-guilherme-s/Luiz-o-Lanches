@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa; /* Cor de fundo clara para contraste */
+}
+
+header {
+    background-color: #fc0015; /* Vermelho para o cabeçalho */
+    padding: 10px 0;
+}
+
+header .logo {
+    height: 50px; /* Ajuste o tamanho da imagem conforme necessário */
+}
+
+header h1 {
+    color: #ffffff; /* Branco para o texto do cabeçalho */
+    margin: 0;
+}
+
+.navbar {
+    background-color: #fc0015 !important; /* Vermelho para a barra de navegação */
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff; /* Branco para o texto dos links de navegação */
+}
+
+.navbar-nav .nav-link.active {
+    color: #ffffff; /* Branco para o item ativo da navegação */
+}
+
+footer {
+    background-color: #fc0015; /* Vermelho para o rodapé */
+    color: #ffffff; /* Branco para o texto do rodapé */
+    padding: 10px 0;
+}
