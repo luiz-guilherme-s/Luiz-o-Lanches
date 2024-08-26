@@ -1,32 +1,40 @@
-# Luizão Lanches - Projeto de Amostra
+# Luizão Lanches - Site de Receitas
 
-Este repositório contém o código-fonte de um site de amostra desenvolvido como parte de um trabalho acadêmico para a faculdade. O objetivo do projeto foi criar um site nesse padrao, utilizando HTML, CSS, e Bootstrap, aplicando as melhores práticas de desenvolvimento web.
+Este repositório contém o código-fonte de um site desenvolvido como parte de uma prática acadêmica focada na construção de um site responsivo de receitas culinárias. O projeto foi criado com o objetivo de implementar um site que utiliza HTML, CSS e o framework Bootstrap para a visualização e organização das receitas.
 
-## Visão Geral
+## Objetivos da Prática
 
-O site "Luizão Lanches" foi projetado para demonstrar as habilidades adquiridas em desenvolvimento web, com foco na estruturação de páginas HTML, estilização com CSS e implementação de layouts responsivos com Bootstrap.
+Os principais objetivos alcançados ao final deste projeto incluem:
+
+- **Definição da estrutura do site utilizando sintaxe HTML**: Criação de páginas estruturadas com tags semânticas para organizar o conteúdo do site.
+  
+- **Utilização de folhas de estilo (CSS) para formatação**: Aplicação de estilos personalizados através de CSS para melhorar a apresentação visual das páginas.
+
+- **Definição de uma fonte de dados estática**: Inclusão de dados estáticos no próprio HTML para exibir as receitas culinárias.
+
+- **Uso de elementos básicos de formatação com Bootstrap**: Implementação de estilos e layouts responsivos utilizando classes e componentes do framework Bootstrap.
 
 ## Estrutura do Projeto
 
-O projeto é composto por três páginas principais:
+O projeto consiste em três páginas principais:
 
 1. **Home (`home.html`)**
-    - Apresenta o logotipo da lanchonete, título, uma mensagem de boas-vindas e um menu de navegação.
+    - Página inicial com logotipo, título e uma mensagem de boas-vindas, além de um menu de navegação.
 
 2. **Receitas (`receitas.html`)**
-    - Lista de receitas, incluindo nome do prato, imagem, ingredientes e modo de preparo, organizados em uma estrutura flexível e responsiva.
+    - Página com a apresentação de várias receitas, cada uma exibida em um painel estilizado com Bootstrap.
 
 3. **Cadastro (`cadastro.html`)**
-    - Formulário de cadastro para clientes, estilizado com classes do Bootstrap, com campos como nome, e-mail e endereço.
+    - Página com um formulário de cadastro de clientes, utilizando classes Bootstrap para formatação e organização dos campos.
 
 ## Arquivos e Diretórios
 
 - `home.html`: Página inicial.
 - `receitas.html`: Página de receitas.
 - `cadastro.html`: Página de cadastro.
-- `formatos.css`: Arquivo de estilos globais.
+- `formatos.css`: Folha de estilos globais.
 - `receitas.css`: Estilos específicos para a página de receitas.
-- `img/`: Diretório com imagens usadas no site.
+- `img/`: Diretório com imagens utilizadas no site.
 
 ## Tecnologias Utilizadas
 
